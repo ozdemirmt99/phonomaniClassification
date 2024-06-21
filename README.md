@@ -1,5 +1,5 @@
-# phonomaniClassification
-phonomani classification with Matlab GUI
+# PNEUMONIAClassification
+PNEUMONIA classification with Matlab GUI
 
 
 
